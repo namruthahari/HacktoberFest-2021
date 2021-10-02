@@ -27,8 +27,6 @@
 | Kaustuv Chattopadhyay                                  | Competetitive Programming|
 | Namrutha Hari                                          | Fullstack Developer      |
 | _Your Name Here_                                       | _What do you love?_      |
-gjhdyjg
-
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
 
